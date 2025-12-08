@@ -6,7 +6,23 @@
 ## 🚀 About Me
 I'm a passionate developer who loves building **full-stack applications**, **scalable backends**, and experimenting with **cloud deployments**.
 
-- 🔭 Currently building **Anime/Ghibli Image Generator (MERN + Clerk + Cloudinary)**
+- 🔭 Currently building **Payment Gateway application (React + TypeScript
+
+Vite
+
+ShadCN UI (professional dashboard UI)
+
+Tailwind CSS
+
+React Query (API data fetching)
+
+Recharts (graphs for payment stats)
+
+Zustand or Redux Toolkit (state management)
+
+Axios (HTTP client)
+
+React Router)**
 - 🌱 Learning **Advanced React, AWS, FastAPI, Clean Architecture**
 - ⚙️ Skilled in **MongoDB, MySQL, Express, Node.js, Multer, JWT**
 - 🧩 Solved **150+ LeetCode DSA problems**
