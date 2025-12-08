@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a passionate developer who loves building **full-stack applications**, **scalable backends**, and experimenting with **cloud deployments**.
 
-- 🔭 Currently building **Payment Gateway application (React + TypeScript + Vite + ShadCN UI + Tailwind CSS + Zustand + Redux Toolkit + React Router)**
+- 🔭 Currently building **Payment Gateway application (React + TypeScript + Vite + ShadCN UI + Tailwind CSS + Zustand + React Router)**
 - 🌱 Learning **Advanced React, AWS, FastAPI, Clean Architecture**
 - ⚙️ Skilled in **MongoDB, MySQL, Express, Node.js, Multer, JWT**
 - 🧩 Solved **300+ LeetCode DSA problems**
