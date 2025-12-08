@@ -50,17 +50,11 @@ I'm a passionate developer who loves building **full-stack applications**, **sca
 
 ## 📁 Featured Projects
 
-### 🔹 **Anime/Ghibli Style Image Generator (MERN + Clerk + Cloudinary)**
-AI image generator using Replicate API + secure auth.
+### 🔹 **Animevault (MERN + jiken api + jwt)**
+Anime recommendation , Replicate API + secure auth.
 
 ### 🔹 **Electric Motor Fault Detection System**
 React + Django + ML model deployed on AWS S3.
-
-### 🔹 **Accident Detection IoT System**
-Temperature tracker → Airbag detection → Telegram alert bot.
-
-### 🔹 **StudySync Clone**
-MySQL + Node.js + JWT + password hashing with bcrypt.
 
 ### 🔹 **Netflix Landing Page Clone**
 Pure HTML, CSS, JavaScript.
