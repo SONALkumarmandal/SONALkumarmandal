@@ -42,7 +42,7 @@ I'm a passionate developer who loves building **full-stack applications**, **sca
 ---
 
 ## 🧩 DSA Journey
-- 🔹 Solved **150+ LeetCode** problems  
+- 🔹 Solved **300+ LeetCode** problems  
 - 🔹 Focus areas: **DP**, **Bit Manipulation**, **Binary Trees**, **Strings**  
 - 🔹 Actively improving problem-solving skills  
 
