@@ -9,9 +9,9 @@ I'm a passionate developer who loves building **full-stack applications**, **sca
 - 🔭 Currently building **Payment Gateway application (React + TypeScript + Vite + ShadCN UI + Tailwind CSS + Zustand + Redux Toolkit + React Router)**
 - 🌱 Learning **Advanced React, AWS, FastAPI, Clean Architecture**
 - ⚙️ Skilled in **MongoDB, MySQL, Express, Node.js, Multer, JWT**
-- 🧩 Solved **150+ LeetCode DSA problems**
+- 🧩 Solved **300+ LeetCode DSA problems**
 - 🎯 Goal: Become a highly skilled developer any company can hire with confidence
-- 🔍 Exploring **microprocessors & IoT-based alert systems**
+- 🔍 Exploring **Artificial intelligence and Machine Learning**
 
 ---
 
