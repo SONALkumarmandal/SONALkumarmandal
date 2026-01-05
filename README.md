@@ -58,7 +58,7 @@ React + FastAPI + ML + Docker.
 Pure HTML, CSS, JavaScript.
 
 ### 🔹 **NoteLY** 
-PostgreSQL + Express + Nodejs + React
+<p>PostgreSQL + React.js + Node.js + Express.js </p>
 ---
 
 ## 📊 GitHub Stats
