@@ -52,11 +52,13 @@ I'm a passionate developer who loves building **full-stack applications**, **sca
 Anime recommendation , Replicate API + secure auth.
 
 ### 🔹 **Electric Motor Fault Detection System**
-React + Django + ML model deployed on AWS S3.
+React + FastAPI + ML + Docker.
 
 ### 🔹 **Netflix Landing Page Clone**
 Pure HTML, CSS, JavaScript.
 
+### 🔹 **NoteLY** 
+PostgreSQL + Express + Nodejs + React
 ---
 
 ## 📊 GitHub Stats
