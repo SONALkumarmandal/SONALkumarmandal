@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonal Kumar</h1>
-<h3 align="center">MERN Stack Developer • Backend Engineer • DSA Enthusiast</h3>
+<h3 align="center">Full Stack Developer • Backend Engineer • DSA Enthusiast</h3>
 
 ---
 
