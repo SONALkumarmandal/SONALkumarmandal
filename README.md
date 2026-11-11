@@ -7,7 +7,7 @@
 *I turn ideas into useful products — from real-time conversations to smarter ways to discover open source.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SONALkumarmandal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/sonal-kumar-mandal-8402a5262))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonal-kumar-mandal-8402a5262)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalkrmandal.skm@gmail.com)
 
 </div>
